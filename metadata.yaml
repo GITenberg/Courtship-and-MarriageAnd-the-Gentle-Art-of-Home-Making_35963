@@ -1,0 +1,35 @@
+_repo: Courtship-and-MarriageAnd-the-Gentle-Art-of-Home-Making_35963
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35963-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Swan, Annie S.
+    aliases:
+    - Smith, Annie S.
+    - Lyall, David
+    - Burnett-Smith, A. (Annie)
+    - Smith, Burnett, Mrs.
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '4770'
+    url: http://www.gutenberg.org/2009/agents/4770
+    wikipedia: http://www.slainte.org.uk/scotauth/swanadsw.htm
+description: ''
+gutenberg_issued: '2011-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family life'
+- !lcc 'TX'
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+- !lcsh 'Home economics'
+title: Courtship and Marriage, and the Gentle Art of Home-Making
+url: http://www.gutenberg.org/ebooks/35963
